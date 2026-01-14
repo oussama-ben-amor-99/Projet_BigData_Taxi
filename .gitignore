@@ -1,0 +1,14 @@
+# Fichiers de données lourds
+data/*.parquet
+data/pipeline_final/
+
+# Fichiers système et Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Environnements virtuels (si tu en as)
+venv/
+env/
+.env
